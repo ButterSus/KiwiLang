@@ -3,6 +3,10 @@
 Kiwi - data pack description language
 =====================================
 
+# Current State of Project
+
+It was very interesting to try myself in the implementation of a nonsense "transpilator". None of the ideas were implemented, there is no time. Development is permanently suspended.
+
 [Kiwi](https://buttersus.github.io/Kiwi/home) is a language for describing Minecraft datapack,
 built with a focus on syntax, based on
 [Kotlin](https://kotlinlang.org/) and some other languages.
